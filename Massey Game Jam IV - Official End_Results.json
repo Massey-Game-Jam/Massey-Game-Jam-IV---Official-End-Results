@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Massey Game Jam IV - Official End/Results",
+      "message": {
+        "embeds": [
+          {
+            "title": "Massey Game Jam IV - Official End/Results",
+            "description": "Thank you, everyone, for joining the jam, the Massey Game Jam team had an astonishing time! Hopefully, you had fun as well and made some games you are proud of!",
+            "color": 16711680,
+            "fields": [
+              {
+                "name": "Game Jam Information",
+                "value": "> Theme: Horror\n> Date: October 5th - October 30th\n> Submissions: 483\n\nWebsite: [Click Here](http://masseygamejam.com/)\nDocumentation: [Click Here](https://docs.google.com/document/u/1/d/148rsNEHEj9RmlJV5LtJd2hX1WmUD9SP4IV1o0UCljAc/edit)",
+                "inline": true
+              },
+              {
+                "name": "Rating",
+                "value": "> Game design\n> Fun\n> Innovation\n> Theme\n> Graphics\n> Audio\n\n",
+                "inline": true
+              },
+              {
+                "name": "The Massey Game Jam IV Winners are:",
+                "value": ":first_place: Paranormal Entities by AI Hack (4)\n:second_place: A Walk In The Dark by Such_Nick (1)\n:third_place: What is that? by MiniGloathj (3) \n\nAll the judges had fun playing everyone's game and we hope to see you again! We've also posted the results in the <#743115835257913495> channel."
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Announcements",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/743635440447520878/767558419321192508/a_5abff6ac9d7c26f562030a50c1f82a3f.gif"
+            },
+            "timestamp": "2020-11-04T01:28:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
